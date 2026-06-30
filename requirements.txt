@@ -1,5 +1,0 @@
-pytelegrambotapi
-pymongo
-flask
-requests
-dnspython
